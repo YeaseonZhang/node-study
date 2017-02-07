@@ -1,0 +1,17 @@
+{
+  "name": "node-study",
+  "version": "1.0.0",
+  "description": "Note for node-study",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node-study"
+  ],
+  "author": "Yeaseon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
